@@ -5,7 +5,6 @@ A Next.js App Router project built for the Full Stack Development assignment: **
 It combines accessible UI primitives, a persistent client-side cart, and a checkout form validated by one shared Zod schema on both the client and the server.
 
 **Author:** Shlok Shrenik Jain
-**Course outcomes covered:** CO1, CO2
 
 ---
 
